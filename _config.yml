@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : Subin Like Lion
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  '멋쟁이 사자처럼' 수업 내용을 이 블로그에 정리합니다.
 
 
 ## => Language and Timezone
@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : Subeen Leem
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: bini0519/bini0519.github.io
 repository_tree: master
 
 
