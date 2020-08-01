@@ -226,4 +226,4 @@ plugins:
 
 ## => Build
 ##############################
-theme: jekyll-text-theme
+theme: jekyll-theme-architect
